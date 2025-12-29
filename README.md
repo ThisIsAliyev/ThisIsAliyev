@@ -1,60 +1,31 @@
 <h1 align="center">Fazil Aliyev</h1>
 
 <p align="center">
-  Entry-Level SOC Analyst (Trainee) • Blue Team • SIEM • DFIR fundamentals
+  Entry-Level SOC Analyst • Blue Team • SIEM • DFIR fundamentals
 </p>
 
 <p align="center">
   📍 Baku, Azerbaijan •
-  <a href="https://www.linkedin.com/in/aliyevfazil/">LinkedIn</a>
 </p>
 
----
+# 💫 About Me:
+Entry-Level SOC Analyst (Trainee) • Blue Team • SIEM (Splunk/Wazuh) • DFIR fundamentals<br>Lab-first: I generate telemetry, build detections, and write clean investigation steps.<br><br>##About Me<br>🛡️ Track: SOC / Blue Team — alert triage, log analysis, incident response fundamentals<br>🏗️ Training: Azerbaijan Cyber Security Center + Computer Engineering (Khazar University)<br>🔎 Lab Stack: Windows Server/AD + endpoints + Sysmon/Event Logs → Splunk/Wazuh<br>🌐 Recent Lab: OPNsense captive portal + Squid/SquidGuard web filtering (tested & documented)<br>📚 Practice: TryHackMe / Hack The Box / LetsDefend — focused on defensive scenarios<br>📌 Work Style: Evidence first — timeline → root cause → containment → lessons learned
 
-## 👤 About
-I’m a cybersecurity student training at the **Azerbaijan Cyber Security Center** while studying **Computer Engineering at Khazar University**.  
-My focus is practical SOC work: understanding telemetry, investigating alerts, and improving detection & response through hands-on labs.
 
-## 🎯 Focus Areas
-- SOC workflow: alert → hypothesis → triage → investigation → decision
-- Incident detection & response fundamentals
-- Network defense basics
-- Building lab environments to simulate real attacks and analyze them from a defender’s perspective
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliyevfazil1892) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisisaliyev) 
 
-## 🧰 Tools & Practice
-- SIEM: **Splunk**, **Wazuh**
-- Network: **Wireshark**
-- Windows basics: **Active Directory / Windows Server**
-- Platforms: **TryHackMe**, **Hack The Box**, **LetsDefend**
-- Linux & virtualization (hands-on learning)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThisIsAliyev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ThisIsAliyev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsAliyev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🧾 Certifications
-- **CNSP (Certified Network Security Practitioner)** — The SecOps Group
-- **OpenEDR Fundamentals** — Xcitium
-
-## 🕵️ Current Work
-I’m building something in the background — details stay **surprise** for now.  
-Progress will appear here as milestones land.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ThisIsAliyev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThisisAliyev&show_icons=true&theme=tokyonight" />
-</p>
-
-
-<!--
-**ThisIsAliyev/ThisIsAliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
