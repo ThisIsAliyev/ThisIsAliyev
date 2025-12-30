@@ -8,8 +8,7 @@
   📍 Baku, Azerbaijan •
 </p>
 
-# 💫 About Me:
-Entry-Level SOC Analyst (Trainee) • Blue Team • SIEM (Splunk/Wazuh) • DFIR fundamentals<br>Lab-first: I generate telemetry, build detections, and write clean investigation steps.<br><br>##About Me<br>🛡️ Track: SOC / Blue Team — alert triage, log analysis, incident response fundamentals<br>🏗️ Training: Azerbaijan Cyber Security Center + Computer Engineering (Khazar University)<br>🔎 Lab Stack: Windows Server/AD + endpoints + Sysmon/Event Logs → Splunk/Wazuh<br>🌐 Recent Lab: OPNsense captive portal + Squid/SquidGuard web filtering (tested & documented)<br>📚 Practice: TryHackMe / Hack The Box / LetsDefend — focused on defensive scenarios<br>📌 Work Style: Evidence first — timeline → root cause → containment → lessons learned
+<br>Lab-first: I generate telemetry, build detections, and write clean investigation steps.<br><br>##About Me<br>🛡️ Track: SOC / Blue Team — alert triage, log analysis, incident response fundamentals<br>🏗️ Training: Azerbaijan Cyber Security Center + Computer Engineering (Khazar University)<br>🔎 Lab Stack: Windows Server/AD + endpoints + Sysmon/Event Logs → Splunk/Wazuh<br>🌐 Recent Lab: OPNsense captive portal + Squid/SquidGuard web filtering (tested & documented)<br>📚 Practice: TryHackMe / Hack The Box / LetsDefend — focused on defensive scenarios<br>📌 Work Style: Evidence first — timeline → root cause → containment → lessons learned
 
 
 ## 🌐 Socials:
