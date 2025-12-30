@@ -8,8 +8,18 @@
   📍 Baku, Azerbaijan
 </p>
 
-# 💫 About Me:
-<br>Lab-first: I generate telemetry, build detections, and write clean investigation steps.<br><br>##About Me<br>🛡️ Track: SOC / Blue Team — alert triage, log analysis, incident response fundamentals<br>🏗️ Training: Azerbaijan Cyber Security Center + Computer Engineering (Khazar University)<br>🔎 Lab Stack: Windows Server/AD + endpoints + Sysmon/Event Logs → Splunk/Wazuh<br>🌐 Recent Lab: OPNsense captive portal + Squid/SquidGuard web filtering (tested & documented)<br>📚 Practice: TryHackMe / Hack The Box / LetsDefend — focused on defensive scenarios<br>📌 Work Style: Evidence first — timeline → root cause → containment → lessons learned
+# 💫 About Me
+
+Lab-first defender: I generate telemetry, build detections, and document clear investigation steps.
+
+## What I do
+🛡️ **Track:** SOC / Blue Team — alert triage, log analysis, incident response fundamentals  
+🏗️ **Training:** Azerbaijan Cyber Security Center + Computer Engineering (Khazar University)  
+🔎 **Lab Stack:** Windows Server/AD + endpoints + Sysmon/Event Logs → Splunk / Wazuh  
+🌐 **Recent Lab:** OPNsense captive portal + Squid/SquidGuard web filtering (tested & documented)  
+📚 **Practice:** TryHackMe / Hack The Box / LetsDefend — defensive-focused scenarios  
+📌 **Work Style:** Evidence-first — timeline → root cause → containment → lessons learned
+
 
 
 ## 🌐 Socials:
