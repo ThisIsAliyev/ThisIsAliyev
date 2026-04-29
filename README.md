@@ -1,7 +1,7 @@
 <h1 align="center">Fazil Aliyev</h1>
 
 <p align="center">
-  Entry-Level SOC Analyst • Blue Team • SIEM • DFIR fundamentals
+  SOC Analyst • Blue Team • SIEM • DFIR fundamentals
 </p>
 
 <p align="center">
